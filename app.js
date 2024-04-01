@@ -3,7 +3,7 @@ const express = require('express');
 const app = express();
 
 // Definición del puerto
-const port = 5000;
+const port = 10900;
 
 // Ruta raíz
 app.get('/', (req, res) => {
